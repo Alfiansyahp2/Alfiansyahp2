@@ -12,19 +12,7 @@
   <img data-importer="snake" src="https://raw.githubusercontent.com/Alfiansyahp2/Alfiansyahp2/snake-output/snake.svg" alt="Snake animation" />
 </p>
 
-### 📊 GitHub Activity & Stats
-
-This section is directly integrated with my real GitHub activity and updates automatically in real-time.
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alfiansyahp2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Alfiansyah's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfiansyahp2&theme=tokyonight&hide_border=true&background=0D1117" alt="Alfiansyah's GitHub Streak" />
-</p>
-
-### 🏆 Top Languages
-
-Showcasing the most frequently used programming languages across my GitHub repositories.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfiansyahp2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
