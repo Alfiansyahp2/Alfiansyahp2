@@ -15,7 +15,7 @@
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=Alfiansyahp2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Alfiansyah's GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" />
+  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="120" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Alfiansyahp2&theme=tokyonight&hide_border=true&background=0D1117" alt="Alfiansyah's GitHub Streak" />
 </p>
