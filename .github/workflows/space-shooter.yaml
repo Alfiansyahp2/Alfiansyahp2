@@ -22,7 +22,7 @@ jobs:
         run: |
           pip install gh-space-shooter
           mkdir -p dist
-          gh-space-shooter --user ${{ github.repository_owner }} --output dist/space-shooter.gif
+          gh-space-shooter ${{ github.repository_owner }} --output dist/space-shooter.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
