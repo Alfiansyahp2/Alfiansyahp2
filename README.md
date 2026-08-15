@@ -12,6 +12,13 @@
   <img data-importer="snake" src="https://raw.githubusercontent.com/Alfiansyahp2/Alfiansyahp2/snake-output/snake.svg" alt="Snake animation" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+
 ### 🛠️ Tech Stack & Tools
 
 <!-- You can adjust the icons below based on your workflow -->
