@@ -1,13 +1,20 @@
 <h1 align="center">Hi there, I'm Alfiansyah! 🌙</h1>
 
-<div>
-  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="400" hspace="30">
-  <p>I specialize in building high-performance <b>web applications</b> and <b>automation solutions</b> using modern stacks like <b>Laravel, Go, Python, React,</b> and <b>Next.js</b>.</p>
-  <p>From <b>SaaS platforms</b> and <b>ERP systems</b> to <b>AI-powered tools</b>, I deliver reliable software driven by clean architecture and best practices.</p>
-  <p>Passionate about innovation and technical excellence. <b>Let's connect!</b></p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<table>
+  <tr valign="top">
+    <td width="60%">
+      <p>I specialize in building high-performance <b>web applications</b> and <b>automation solutions</b> using modern stacks like <b>Laravel, Go, Python, React,</b> and <b>Next.js</b>.</p>
+      <p>From <b>SaaS platforms</b> and <b>ERP systems</b> to <b>AI-powered tools</b>, I deliver reliable software driven by clean architecture and best practices.</p>
+      <p>Passionate about innovation and technical excellence. <b>Let's connect!</b></p>
+      <p align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="350">
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="400">
+    </td>
+  </tr>
+</table>
 
 <br clear="both"/>
 <div align="center">
