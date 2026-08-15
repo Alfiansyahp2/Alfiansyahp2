@@ -12,15 +12,6 @@
   <img data-importer="snake" src="https://raw.githubusercontent.com/Alfiansyahp2/Alfiansyahp2/snake-output/snake.svg" alt="Snake animation" />
 </p>
 
-### 🛠️ Tech Stack & Tools
-
-<!-- You can adjust the icons below based on your workflow -->
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,dart,flutter,js,python,html,css,mysql,git,github,vscode" />
-  </a>
-</p>
-
 ### 📊 GitHub Activity & Stats
 
 This section is directly integrated with my real GitHub activity and updates automatically in real-time.
@@ -36,10 +27,4 @@ Showcasing the most frequently used programming languages across my GitHub repos
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfiansyahp2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer"/>
 </p>
