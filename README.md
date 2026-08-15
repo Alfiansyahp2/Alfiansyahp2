@@ -37,6 +37,10 @@
   <table>
     <tr valign="top">
       <td align="center">
+        <br><br><br>
+        <img src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" width="200" />
+      </td>
+      <td align="center">
         <h3>🛠️ Tech Stack & Tools</h3>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,python,go,dart,flutter,html,css,scss,tailwind,react,nextjs,vue,nuxtjs,nodejs,express,mysql,postgres,redis,supabase,appwrite,git,github,vscode&perline=7" />
@@ -45,10 +49,6 @@
       <td align="center">
         <h3>🏆 Top Languages</h3>
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alfiansyahp2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-      </td>
-      <td align="center">
-        <br><br><br>
-        <img src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" width="200" />
       </td>
     </tr>
   </table>
