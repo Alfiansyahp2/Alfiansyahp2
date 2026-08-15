@@ -24,7 +24,7 @@ jobs:
           mkdir -p dist
           gh-space-shooter ${{ github.repository_owner }} --output dist/space-shooter.gif
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: push space-shooter.gif to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
