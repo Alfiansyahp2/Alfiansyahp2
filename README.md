@@ -22,7 +22,7 @@
       <td align="center" width="50%">
         <h3>🛠️ Tech Stack & Tools</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=php,dart,flutter,js,python,html,css,mysql,git,github,vscode&perline=4" />
+          <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,python,dart,flutter,html,css,scss,mysql,git,github,vscode&perline=5" />
         </a>
       </td>
       <td align="center" width="50%">
