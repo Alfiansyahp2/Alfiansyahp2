@@ -1,24 +1,37 @@
 <h1 align="center">Hi there, I'm Alfiansyah! 🌙</h1>
 
-<div>
-  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="400">
-  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="30" height="1">
-  <p>I specialize in building high-performance <b>web applications</b> and <b>automation solutions</b> using modern stacks like <b>Laravel, Go, Python, React,</b> and <b>Next.js</b>.</p>
-  <p>From <b>SaaS platforms</b> and <b>ERP systems</b> to <b>AI-powered tools</b>, I deliver reliable software driven by clean architecture and best practices.</p>
-  <p>Passionate about innovation and technical excellence. <b>Let's connect!</b></p>
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="350">
-  </p>
-</div>
+<table>
+  <tr valign="top">
+    <td width="60%">
+      <p>I specialize in building high-performance <b>web applications</b> and <b>automation solutions</b> using modern stacks like <b>Laravel, Go, Python, React,</b> and <b>Next.js</b>.</p>
+      <p>From <b>SaaS platforms</b> and <b>ERP systems</b> to <b>AI-powered tools</b>, I deliver reliable software driven by clean architecture and best practices.</p>
+      <p>Passionate about innovation and technical excellence. <b>Let's connect!</b></p>
+      <p align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="350">
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="400">
+    </td>
+  </tr>
+</table>
 
 <br clear="both"/>
-<p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Alfiansyahp2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Alfiansyah's GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Alfiansyahp2&theme=tokyonight&hide_border=true&background=0D1117" alt="Alfiansyah's GitHub Streak" />
-</p>
+<div align="center">
+  <table>
+    <tr valign="middle">
+      <td align="center">
+        <img height="170" src="https://github-stats-extended.vercel.app/api?username=Alfiansyahp2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Alfiansyah's GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" />
+      </td>
+      <td align="center">
+        <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Alfiansyahp2&theme=tokyonight&hide_border=true&background=0D1117" alt="Alfiansyah's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <table>
