@@ -27,7 +27,7 @@
         <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" />
       </td>
       <td align="center">
-        <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Alfiansyahp2&theme=tokyonight&hide_border=true&background=0D1117" alt="Alfiansyah's GitHub Streak" />
+        <img height="170" src="https://streak-stats.demolab.com/?user=Alfiansyahp2&theme=tokyonight&hide_border=true&background=0D1117" alt="Alfiansyah's GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -43,7 +43,7 @@
       <td align="center">
         <h3>🛠️ Tech Stack & Tools</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,python,go,dart,flutter,html,css,scss,tailwind,react,nextjs,vue,nuxtjs,nodejs,express,mysql,postgres,redis,supabase,appwrite,git,github,vscode&perline=7" />
+          <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,python,go,dart,flutter,html,css,scss,tailwind,react,nextjs,vue,nuxtjs,nodejs,express,mysql,postgres,redis,supabase,docker,appwrite,git,github,vscode&perline=7" />
         </a>
       </td>
       <td align="center">
@@ -76,7 +76,7 @@
       <td align="center">
         <h3>🛠️ Tech Stack & Tools</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,python,go,dart,flutter,html,css,scss,tailwind,react,nextjs,vue,nuxtjs,nodejs,express,mysql,postgres,redis,supabase,appwrite,git,github,vscode&perline=7" />
+          <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,python,go,dart,flutter,html,css,scss,tailwind,react,nextjs,vue,nuxtjs,nodejs,express,mysql,postgres,redis,supabase,docker,appwrite,git,github,vscode&perline=7" />
         </a>
       </td>
       <td align="center">
