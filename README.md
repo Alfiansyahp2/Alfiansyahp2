@@ -43,7 +43,7 @@
       <td align="center">
         <h3>🛠️ Tech Stack & Tools</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,python,go,dart,flutter,html,css,scss,tailwind,react,nextjs,vue,nuxtjs,nodejs,express,mysql,postgres,redis,supabase,docker,appwrite,git,github,vscode&perline=7" />
+          <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,python,django,go,dart,flutter,html,css,scss,tailwind,react,nextjs,vue,nuxtjs,nodejs,express,mysql,postgres,redis,supabase,docker,appwrite,git,github,vscode&perline=7" />
         </a>
       </td>
       <td align="center">
@@ -76,7 +76,7 @@
       <td align="center">
         <h3>🛠️ Tech Stack & Tools</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,python,go,dart,flutter,html,css,scss,tailwind,react,nextjs,vue,nuxtjs,nodejs,express,mysql,postgres,redis,supabase,docker,appwrite,git,github,vscode&perline=7" />
+          <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,python,django,go,dart,flutter,html,css,scss,tailwind,react,nextjs,vue,nuxtjs,nodejs,express,mysql,postgres,redis,supabase,docker,appwrite,git,github,vscode&perline=7" />
         </a>
       </td>
       <td align="center">
